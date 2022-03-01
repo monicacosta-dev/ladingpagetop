@@ -1,0 +1,27 @@
+@media screen and (max-width: 760px) {
+    header {
+        flex-direction: column;
+    }
+    main {
+        flex-direction: column;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    form {
+        margin: o auto;
+        width: 100%;
+    }
+    input {
+        align-self: center;
+    }
+    img {
+        display: none;
+        /* zcaso queira usar a imagens use essas configurações, eu gostei sem tambem*/
+        /* margin-top : 100px
+            width: 300px*/
+    }
+    ul {
+        text-align: center;
+    }
+}
